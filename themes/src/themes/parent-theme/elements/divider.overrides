@@ -1,0 +1,17 @@
+/*******************************
+         Theme Overrides
+*******************************/
+
+.ui.divider {
+  text-transform: none;
+  font-weight: @normal;
+  color: @grey;
+}
+
+.ui.horizontal.divider:before {
+  width: 10%;
+}
+
+.ui.horizontal.divider:after {
+  width: 90%;
+}
