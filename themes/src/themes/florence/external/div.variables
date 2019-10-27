@@ -1,0 +1,5 @@
+@import '../../parent-theme/external/div.variables';
+
+@div-funny__border-color: @blue;
+@div-funny__background-color: @orange;
+@div-funny__color: @blue;

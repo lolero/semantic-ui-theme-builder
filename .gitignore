@@ -15,5 +15,6 @@ docs/dist/
 dll/
 node_modules/
 tmp/
+storybook-static/
 
 themes/dist/
